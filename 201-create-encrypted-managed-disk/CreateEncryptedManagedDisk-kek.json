@@ -51,7 +51,7 @@
   "variables": {
     "location": "[parameters('location')]",
     "storageAccountType": "Standard_LRS",
-    "diskSzie": "128"
+    "diskSzie": "512"
   },
   "resources": [
     {
